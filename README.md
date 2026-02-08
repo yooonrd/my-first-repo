@@ -1,1 +1,1 @@
-# my-first-repo
+# THIS IS MY FIRST PROJECT IN ITEC 65
